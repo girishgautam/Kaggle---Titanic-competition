@@ -23,4 +23,4 @@ In this challenge, we will complete the analysis of what sorts of people were li
 ## Code and Resources Used
 
     Python Version: 3.7
-    Packages: pandas, numpy, sklearn, matplotlib, .
+    Packages: pandas, numpy, sklearn, matplotlib.
